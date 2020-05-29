@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/now-u-campaigns/precache-manifest.06f90fb54e4ecd52966eff7e8fee9758.js"
+  "/now-u-campaigns/precache-manifest.91df0c7ff2cc9c9ca0dcda310b1ac994.js"
 );
 
 self.addEventListener('message', (event) => {
