@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90ea8ad3924386be8ebd2e50635470bf",
+    "revision": "23abafdf37fa784035c296c1f4fbb27e",
     "url": "/now-u-campaigns/index.html"
   },
   {
-    "revision": "b1e2760c799418843168",
-    "url": "/now-u-campaigns/static/css/main.60de1a74.chunk.css"
+    "revision": "9e82c6d7a1dff0dac50a",
+    "url": "/now-u-campaigns/static/css/main.288b48ee.chunk.css"
   },
   {
     "revision": "5673c39d86f934f54ac3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/now-u-campaigns/static/js/2.da87511f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1e2760c799418843168",
-    "url": "/now-u-campaigns/static/js/main.cbe8b91d.chunk.js"
+    "revision": "9e82c6d7a1dff0dac50a",
+    "url": "/now-u-campaigns/static/js/main.dc9cc577.chunk.js"
   },
   {
     "revision": "157c314b57cb5f135266",

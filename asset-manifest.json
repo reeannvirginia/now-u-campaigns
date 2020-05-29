@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/now-u-campaigns/static/css/main.60de1a74.chunk.css",
-    "main.js": "/now-u-campaigns/static/js/main.cbe8b91d.chunk.js",
-    "main.js.map": "/now-u-campaigns/static/js/main.cbe8b91d.chunk.js.map",
+    "main.css": "/now-u-campaigns/static/css/main.288b48ee.chunk.css",
+    "main.js": "/now-u-campaigns/static/js/main.dc9cc577.chunk.js",
+    "main.js.map": "/now-u-campaigns/static/js/main.dc9cc577.chunk.js.map",
     "runtime-main.js": "/now-u-campaigns/static/js/runtime-main.23d60944.js",
     "runtime-main.js.map": "/now-u-campaigns/static/js/runtime-main.23d60944.js.map",
     "static/js/2.da87511f.chunk.js": "/now-u-campaigns/static/js/2.da87511f.chunk.js",
     "static/js/2.da87511f.chunk.js.map": "/now-u-campaigns/static/js/2.da87511f.chunk.js.map",
     "index.html": "/now-u-campaigns/index.html",
-    "precache-manifest.1b14106e9b4de859b959c1b41037de09.js": "/now-u-campaigns/precache-manifest.1b14106e9b4de859b959c1b41037de09.js",
+    "precache-manifest.06f90fb54e4ecd52966eff7e8fee9758.js": "/now-u-campaigns/precache-manifest.06f90fb54e4ecd52966eff7e8fee9758.js",
     "service-worker.js": "/now-u-campaigns/service-worker.js",
-    "static/css/main.60de1a74.chunk.css.map": "/now-u-campaigns/static/css/main.60de1a74.chunk.css.map",
+    "static/css/main.288b48ee.chunk.css.map": "/now-u-campaigns/static/css/main.288b48ee.chunk.css.map",
     "static/js/2.da87511f.chunk.js.LICENSE.txt": "/now-u-campaigns/static/js/2.da87511f.chunk.js.LICENSE.txt",
     "static/media/app-download.svg": "/now-u-campaigns/static/media/app-download.9377dd96.svg",
     "static/media/apple-store.svg": "/now-u-campaigns/static/media/apple-store.5130b020.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.23d60944.js",
     "static/js/2.da87511f.chunk.js",
-    "static/css/main.60de1a74.chunk.css",
-    "static/js/main.cbe8b91d.chunk.js"
+    "static/css/main.288b48ee.chunk.css",
+    "static/js/main.dc9cc577.chunk.js"
   ]
 }
