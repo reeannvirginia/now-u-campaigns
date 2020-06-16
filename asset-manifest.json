@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/now-u-campaigns/static/css/main.288b48ee.chunk.css",
-    "main.js": "/now-u-campaigns/static/js/main.d577fc63.chunk.js",
-    "main.js.map": "/now-u-campaigns/static/js/main.d577fc63.chunk.js.map",
-    "runtime-main.js": "/now-u-campaigns/static/js/runtime-main.23d60944.js",
-    "runtime-main.js.map": "/now-u-campaigns/static/js/runtime-main.23d60944.js.map",
-    "static/js/2.da87511f.chunk.js": "/now-u-campaigns/static/js/2.da87511f.chunk.js",
-    "static/js/2.da87511f.chunk.js.map": "/now-u-campaigns/static/js/2.da87511f.chunk.js.map",
-    "index.html": "/now-u-campaigns/index.html",
-    "precache-manifest.91df0c7ff2cc9c9ca0dcda310b1ac994.js": "/now-u-campaigns/precache-manifest.91df0c7ff2cc9c9ca0dcda310b1ac994.js",
-    "service-worker.js": "/now-u-campaigns/service-worker.js",
-    "static/css/main.288b48ee.chunk.css.map": "/now-u-campaigns/static/css/main.288b48ee.chunk.css.map",
-    "static/js/2.da87511f.chunk.js.LICENSE.txt": "/now-u-campaigns/static/js/2.da87511f.chunk.js.LICENSE.txt",
-    "static/media/app-download.svg": "/now-u-campaigns/static/media/app-download.9377dd96.svg",
-    "static/media/apple-store.svg": "/now-u-campaigns/static/media/apple-store.5130b020.svg",
-    "static/media/google-store.svg": "/now-u-campaigns/static/media/google-store.9932622c.svg",
-    "static/media/now-u-logo-orange.svg": "/now-u-campaigns/static/media/now-u-logo-orange.23fe7730.svg",
-    "static/media/our_story_img.png": "/now-u-campaigns/static/media/our_story_img.02c2e18c.png",
-    "static/media/road-sign.svg": "/now-u-campaigns/static/media/road-sign.c0d9ab35.svg",
-    "static/media/the_app.png": "/now-u-campaigns/static/media/the_app.465387fd.png"
+    "main.css": "/static/css/main.fce52e9a.chunk.css",
+    "main.js": "/static/js/main.6b8af5a5.chunk.js",
+    "main.js.map": "/static/js/main.6b8af5a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f77087f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f77087f.js.map",
+    "static/js/2.00fe42ee.chunk.js": "/static/js/2.00fe42ee.chunk.js",
+    "static/js/2.00fe42ee.chunk.js.map": "/static/js/2.00fe42ee.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.29d56b35b121b42b6242c390afdd85c5.js": "/precache-manifest.29d56b35b121b42b6242c390afdd85c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fce52e9a.chunk.css.map": "/static/css/main.fce52e9a.chunk.css.map",
+    "static/js/2.00fe42ee.chunk.js.LICENSE.txt": "/static/js/2.00fe42ee.chunk.js.LICENSE.txt",
+    "static/media/app-download.svg": "/static/media/app-download.9377dd96.svg",
+    "static/media/apple-store.svg": "/static/media/apple-store.5130b020.svg",
+    "static/media/google-store.svg": "/static/media/google-store.9932622c.svg",
+    "static/media/now-u-logo-orange.svg": "/static/media/now-u-logo-orange.23fe7730.svg",
+    "static/media/our_story_img.png": "/static/media/our_story_img.02c2e18c.png",
+    "static/media/road-sign.svg": "/static/media/road-sign.c0d9ab35.svg",
+    "static/media/the_app.png": "/static/media/the_app.465387fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.23d60944.js",
-    "static/js/2.da87511f.chunk.js",
-    "static/css/main.288b48ee.chunk.css",
-    "static/js/main.d577fc63.chunk.js"
+    "static/js/runtime-main.2f77087f.js",
+    "static/js/2.00fe42ee.chunk.js",
+    "static/css/main.fce52e9a.chunk.css",
+    "static/js/main.6b8af5a5.chunk.js"
   ]
 }
